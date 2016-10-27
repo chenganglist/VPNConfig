@@ -1,0 +1,1 @@
+wpa_supplicant -i eth0.2 -D wired -c /etc/8021x.conf -p multicast_only=1 -B
