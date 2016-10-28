@@ -82,7 +82,7 @@ END
 	service iptables start
 	/usr/local/sbin/xl2tpd
 	
-	echo "L2TP VPN service is installed, your L2TP VPN username is vpn, VPN password is ${pass}"
+	echo "L2TP VPN service is installed, your L2TP VPN username is vpn, VPN password is 6x2oFJGU"
 	
 }
 
