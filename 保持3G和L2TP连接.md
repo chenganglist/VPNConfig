@@ -1,5 +1,5 @@
- ##保持3G和L2TP连接
- 
+ ##使用循环保持3G和L2TP连接
+
     while [[ 1 ]];do
         /usr/bin/wvdialconf&
         sleep 5
